@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **PHP, HTML, CSS, SQL**
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 

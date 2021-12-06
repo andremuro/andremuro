@@ -4,7 +4,7 @@
 
 - 🔥 Estágiario Backend PHP 
 
-- ✔ **PHP, HTML, CSS, SQL**
+- ✔ Estou aqui para compartilhar um pouco da minha evolução!
 
 <br>
 

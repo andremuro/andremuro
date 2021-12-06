@@ -1,5 +1,5 @@
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, Sou André Muro</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, Sou o André</h1>
 
 
 - 🔥 Estágiario Backend PHP 

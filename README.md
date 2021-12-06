@@ -1,10 +1,10 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Muro</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, Sou André Muro</h1>
 
 
-- 🔥 Trainee Web Developer 
+- 🔥 Estágiario Backend PHP 
 
-- 💬 Ask me about **PHP, HTML, CSS, SQL**
+- ✔ **PHP, HTML, CSS, SQL**
 
 <br>
 
@@ -16,4 +16,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
+<br>

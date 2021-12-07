@@ -9,7 +9,11 @@
 <br>
 
 ## 🚀 &nbsp;Tecnologias que utilizo!
-
+<table>
+  <tr>
+    <td>(https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=HTML5&logoColor=ED8B00)</td>
+  </tr>
+</table>  
 ![HTML](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=HTML5&logoColor=ED8B00)&nbsp;
 ![CSS](https://img.shields.io/badge/css3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=PHP&logoColor=836FFF)&nbsp;

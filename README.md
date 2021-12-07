@@ -10,12 +10,12 @@
 
 ## 🚀 &nbsp;Tecnologias que utilizo!
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=HTML5&logoColor=ED8B00)&nbsp;
+![CSS](https://img.shields.io/badge/css3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-05122A?style=for-the-badge&logo=PHP&logoColor=836FFF)&nbsp;
+![MYSQL](https://img.shields.io/badge/MYSQL-05122A?style=for-the-badge&logo=MYSQL&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-05122A?style=for-the-badge&logo=GIT&logoColor=ED8B0)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-05122A?style=for-the-badge&logo=GITHUB&logoColor=ED8B0)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VISUALSTUDIOCODE-05122A?style=for-the-badge&logo=VISUALSTUDIOCODE&logoColor=1E90FF)&nbsp;
 
 <br>

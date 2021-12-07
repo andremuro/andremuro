@@ -12,7 +12,7 @@
 
 <table>
   <tr>  
-    <td>[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;]</td>
+    <th>[![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;]</th>
     <td>![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;</td>
     <td>![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;</td>
     <td>![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;</td>

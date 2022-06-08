@@ -1,8 +1,8 @@
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, Sou o André</h1>
+<h3 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, Sou o André</h3>
 
 
-- 🔥 Estágiario Backend PHP 
+- 🔥 Desenvolvedor Junior Backend PHP 
 
 - ✔ Estou aqui para compartilhar um pouco da minha evolução!
 
